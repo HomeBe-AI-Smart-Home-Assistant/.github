@@ -17,7 +17,7 @@ STM32, Raspberry Pi, AWS, React를 기반으로 구성되었으며,
 
 ---
 
-## Overview
+## ✍️ Overview
 
 HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈 케어 시스템입니다.  
 센서 데이터와 영상 정보를 바탕으로 위험 상황을 감지하고,  
@@ -33,7 +33,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ---
 
-## System Architecture
+## ⚙ System Architecture
 
 ![System Architecture](여기에_구성도_이미지_URL_넣기)
 
@@ -41,7 +41,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ---
 
-## Key Features
+## ✍️ Key Features
 
 - 낙상 및 이상 상황 감지
 - 환경 센서 기반 상태 모니터링
@@ -51,8 +51,8 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 - 스마트 홈 보조 기능 연동
 
 ---
-
-## Tech Stack
+<!-- 표로 나타내면 더욱 좋을 듯 -->
+## ⚙ Tech Stack
 
 ### Embedded / Device
 - STM32 NUCLEO Board
@@ -88,7 +88,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ---
 
-## Repositories
+## 🔗 Repositories
 
 | Repository | Description |
 |---|---|
@@ -101,7 +101,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ---
 
-## Project Goals
+## ✍️ Project Goals
 
 이 프로젝트는 단순한 센서 수집 시스템이 아니라,  
 **위험 감지 → 정보 전달 → 사용자 확인 → 대응 보조**까지 연결되는  
