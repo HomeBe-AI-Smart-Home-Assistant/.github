@@ -1,2 +1,0 @@
-# homebe-docs
-Project Reference
