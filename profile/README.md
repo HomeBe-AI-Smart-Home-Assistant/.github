@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# HomeBe : AI Smart Home Assistant
+# 🙋‍♀️ HomeBe : AI Smart Home Assistant
 
 독거노인을 위한 **AI 스마트 홈비서 시스템** 프로젝트입니다.  
 STM32, Raspberry Pi, AWS, React를 기반으로 구성되었으며,  
