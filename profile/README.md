@@ -53,40 +53,16 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 - 스마트 홈 보조 기능 연동
 
 ---
-<!-- 표로 나타내면 더욱 좋을 듯 -->
 ## ⚙ Tech Stack
 
-### Embedded / Device
-- STM32 NUCLEO Board
-- HAL Library
-- UART / Timer Interrupt / PWM / EXTI
-
-- Raspberry Pi 4
-- Sensor Interface
-- DHT22 / MQ-2 / MQ-7
-
-### Edge / AI
-- Raspberry Pi 4
-- Python
-- Web Camera
-- AI-based Detection
-- MediaPipePose
-
-### Cloud / Backend
-- AWS Lambda
-- DynamoDB
-- MQTT
-- API / Notification Processing
-
-### Frontend
-- React
-- Dashboard UI
-- Real-time Monitoring
-
-### Frontend
-- Android Studio
-- Rest API
-- FireBase
+| Category | Stack |
+|---|---|
+| **Embedded / Device** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![NUCLEO Board](https://img.shields.io/badge/NUCLEO_Board-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![HAL Library](https://img.shields.io/badge/HAL_Library-00979D?style=flat-square) ![UART](https://img.shields.io/badge/UART-555555?style=flat-square) ![Timer Interrupt](https://img.shields.io/badge/Timer_Interrupt-555555?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-555555?style=flat-square) ![EXTI](https://img.shields.io/badge/EXTI-555555?style=flat-square) |
+| **Sensors** | ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![DHT22](https://img.shields.io/badge/DHT22-4CAF50?style=flat-square) ![MQ-2](https://img.shields.io/badge/MQ--2-4CAF50?style=flat-square) ![MQ-7](https://img.shields.io/badge/MQ--7-4CAF50?style=flat-square) ![Sensor Interface](https://img.shields.io/badge/Sensor_Interface-4CAF50?style=flat-square) |
+| **Edge / AI** | ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Webcam](https://img.shields.io/badge/Webcam-666666?style=flat-square) ![MediaPipe Pose](https://img.shields.io/badge/MediaPipe_Pose-FF6F00?style=flat-square) ![AI Detection](https://img.shields.io/badge/AI--based_Detection-8E44AD?style=flat-square) |
+| **Cloud / Backend** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square) ![API](https://img.shields.io/badge/API-2C3E50?style=flat-square) ![Notification Processing](https://img.shields.io/badge/Notification_Processing-E67E22?style=flat-square) |
+| **Web Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Dashboard UI](https://img.shields.io/badge/Dashboard_UI-2D8CFF?style=flat-square) ![Real-time Monitoring](https://img.shields.io/badge/Real--time_Monitoring-16A085?style=flat-square) |
+| **Mobile App** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
