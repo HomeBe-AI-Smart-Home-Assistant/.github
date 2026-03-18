@@ -95,7 +95,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ---
 
-## Demo
+## DemoPhoto
 
 <p align = "center">
 <img width="197" height="358" alt="Image" src="https://github.com/user-attachments/assets/5498ddbc-bd99-430e-bdc2-be53ce2f2602" />
@@ -105,7 +105,18 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 	<구현된 독거노인 AI 홈비서 로봇 외형>
 </div>
 
+---
 
+## DemoVideo
+
+Click the image below to watch the demo video on YouTube.
+
+[![HomeBe Demo](https://github.com/user-attachments/assets/d7fb46c1-d3e5-4da3-82c8-dd58e6757cc7)](https://www.youtube.com/watch?v=bdJWRNAsrWQ)
+
+<div align=center>
+	<DemoVideo>
+</div>
+		
 ---
 
 ## Team
