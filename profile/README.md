@@ -97,7 +97,7 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 | [AI / Raspberry Pi](https://github.com/HomeBe-AI-Smart-Home-Assistant/AI-Home-Assistance-Detection_model) | 영상 처리 및 AI 기능 구현 |
 | [Backend / AWS](https://github.com/HomeBe-AI-Smart-Home-Assistant/AI-Home-Assistance-AWS) | 클라우드 연동 및 데이터 처리 |
 | [Frontend / Web](https://github.com/HomeBe-AI-Smart-Home-Assistant/AI-Home-Assistance-React) | 사용자 모니터링 웹 화면 |
-| [Frontend / Web](https://github.com/HomeBe-AI-Smart-Home-Assistant/AI-Home-Assistance-App) | 보호자 및 사용자용 앱 구성 |
+| [APP](https://github.com/HomeBe-AI-Smart-Home-Assistant/AI-Home-Assistance-APP) | 보호자 및 사용자용 앱 구성 |
 
 ---
 
