@@ -35,7 +35,8 @@ HomeBe는 독거노인의 일상 안전과 생활 보조를 위한 스마트 홈
 
 ## ⚙ System Architecture
 
-![System Architecture](여기에_구성도_이미지_URL_넣기)
+![System Architecture](img width="552" height="235" alt="Image" src="https://github.com/user-attachments/assets/8a2f3dde-807a-4944-b3ae-7f263043013a")
+
 
 > 전체 시스템은 센서 및 제어부, AI 처리부, 클라우드 서버, 사용자 인터페이스, 보호자용 어플리케이션으로 구성됩니다.
 
